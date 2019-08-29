@@ -4,4 +4,4 @@
 
 ## Check the final application screenshot
 
-![screenshot](Screenshot_Mission_to_Mars.jpg)
+![screenshot](Screenshot_Earthquake.png)
