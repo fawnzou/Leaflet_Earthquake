@@ -6,5 +6,5 @@
 
 ![screenshot](Screenshot_Earthquake.png)
 
-## Check the final application screenshot
+## Check the final application
 https://fawnzou.github.io/Leaflet_Earthquake/
